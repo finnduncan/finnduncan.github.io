@@ -1,0 +1,55 @@
+
+.title {
+  color: #ADE2E3;
+  font-size: 60px;
+}
+
+.cover_photo {
+  width: auto;
+  height: 400px;
+}
+
+.card {
+  padding: 5px;
+}
+
+.index {
+  background-color: rgba(201, 76, 76, 0.2);
+}
+
+.family {
+  background-color: rgba(30, 40, 145, 0.2);
+}
+
+.music {
+  background-color: rgba(95, 195, 145, 0.2);
+}
+
+.pets {
+  background-color: rgba(255, 165, 0, 0.2);
+}
+
+.musictag {
+  margin: 20px;
+  height: 400px;
+}
+
+#spotify {
+  width: auto;
+  height: 250px;
+}
+
+.intro {
+  text-align: center;
+  margin: 20px;
+  color: #9e4646;
+}
+
+.intro0 {
+  text-shadow: 1px 1px;
+}
+
+.intro1 {
+  font-size:18px;
+}
+
